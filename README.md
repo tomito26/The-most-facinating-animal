@@ -1,5 +1,5 @@
 # My Pet
-This  project is about my most fascinating animal on the planet at the same time the agenda of the project is to understand the basic structure of the html
+This  project is about my most fascinating animal on the planet at the same time the agenda of the project is to understand the basic structure of the html and CSS
 ![screenshot](screenshot.png)
 
 ## Author
