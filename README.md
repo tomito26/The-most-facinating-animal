@@ -2,7 +2,7 @@
 This  project is about my most fascinating animal on the planet at the same time the agenda of the project is to understand the basic structure of the html
 ![screenshot](screenshot.png)
 
-## Contributors
+## Author
 * Thomas Khaemba
 
 ## How to access it
